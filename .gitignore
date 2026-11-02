@@ -1,0 +1,9 @@
+# CMake derleme klasörleri (her görevde ./build, derlenince yeniden oluşur)
+build/
+
+# macOS
+.DS_Store
+
+# Editör ayarları (bu bilgisayara özel yollar içeriyor)
+.vscode/
+.clangd
